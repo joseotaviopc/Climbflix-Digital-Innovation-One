@@ -31,6 +31,10 @@
 
 @media screen and (min-width: 1000px) {
     .descricao {
+        width: 90%;
+    }
+
+    .filme-principal .container {
         width: 65%;
     }
 }
